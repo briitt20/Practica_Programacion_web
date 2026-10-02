@@ -1,0 +1,36 @@
+{
+  "hash": "5c8ca593",
+  "configHash": "686dd755",
+  "lockfileHash": "c33e8424",
+  "browserHash": "62bef57a",
+  "optimized": {
+    "@angular/core": {
+      "src": "../../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "6d7d78b9",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "077147d4",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "09111cfe",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "core-Dl1ZlCfZ": {
+      "file": "core-Dl1ZlCfZ.js",
+      "isDynamicEntry": false
+    },
+    "platform-browser-BRYd5-Fy": {
+      "file": "platform-browser-BRYd5-Fy.js",
+      "isDynamicEntry": false
+    }
+  }
+}
